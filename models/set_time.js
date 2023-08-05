@@ -45,5 +45,5 @@ module.exports = (sequelize, DataTypes) => {
     tableName: 'set_time',
     timestamps: false
   });
-  return SetTime;
+  return Set_time;
 };
